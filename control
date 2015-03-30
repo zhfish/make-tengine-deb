@@ -1,8 +1,8 @@
 Source: tengine
 Section: httpd
 Priority: optional
-Maintainer: betterpm <betterpm@gmail.com>
-Uploaders: betterpm <betterpm@gmail.com>
+Maintainer: betterpm <wangchen@zhfish.net>
+Uploaders: betterpm <wangchen@zhfish.net>
 Build-Depends:  debhelper (>= 7.0.50~), libssl-dev (>= 0.9.7), libpcre3-dev, zlib1g-dev
 Standards-Version: 3.9.2
 Homepage: http://tengine.taobao.org/
